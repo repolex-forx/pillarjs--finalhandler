@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "pillarjs",
+  "repo": "finalhandler",
+  "versions": [
+    {
+      "commit": "aa2851f6b6cf48238a307299be691721530e9172",
+      "parsed_at": "2026-09-15T23:54:22.896801+00:00",
+      "tag": "v2.1.1",
+      "filetree": "filetree/aa2851f6b6cf48238a307299be691721530e9172.nq.gz",
+      "blobs": [
+        "blob/a6096a49b45192e7c5ac5f0f2bdcb17d0b18d1b1.nq.gz",
+        "blob/9808c3b2b6602da61eb4afcb4caf33368e3e2bd4.nq.gz",
+        "blob/62562b74a3b5a79e82ca417b02e0f597d85f5e2f.nq.gz",
+        "blob/8b011be00a99399ac5c79dac3251efa5964907cf.nq.gz",
+        "blob/516e088e8171d4f960a0c31d1cada9c35baca84c.nq.gz",
+        "blob/f6d43702a0b0298e2d36cf0e1dd9f66656c0153e.nq.gz",
+        "blob/93cebf3e4be1094f37a4e3836d42bc3e578c3818.nq.gz",
+        "blob/f15b98e249d653f23d7e121037bde0eae1817582.nq.gz",
+        "blob/32a53f784ddb73bd41233ffc7bf6e56899edb25d.nq.gz",
+        "blob/cf3015fb3b6ee818a7e76aff5854cde130fc5fe0.nq.gz",
+        "blob/869ddc2b39e2a68f60559e77f7204403c39e7d90.nq.gz",
+        "blob/e40f729a10085463adc71b4772c2d988bae6f25f.nq.gz",
+        "blob/60221067c4d591554407b4700033aab9669a9b0e.nq.gz",
+        "blob/bf15e484c8f40a242f5fbf24676bda8da0e9e013.nq.gz",
+        "blob/3d30ac38515699883cd01471c28b5cab0ccaebce.nq.gz",
+        "blob/7be774e60e93ab7583a24740bdba19ea5a1b32f3.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
